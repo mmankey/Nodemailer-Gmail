@@ -12,9 +12,9 @@ This repository was initially created to test for another project.
 - I belive Google restricts the amount of mail you can send "to" unique email addresses on Gmail so this would not be very useful for sending a large volume of email, but for testing and low volume notifications it works well as of April 19 2018.
 
 # Technology
-JavaScript
-[Node.JS](nodejs.org)
-[Nodemailer](https://nodemailer.com/)
-[Gmail](http://gmail.com)
+- JavaScript
+- [Node.JS](nodejs.org)
+- [Nodemailer](https://nodemailer.com/)
+- [Gmail](http://gmail.com)
 
 
