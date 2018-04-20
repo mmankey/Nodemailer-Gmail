@@ -1,6 +1,6 @@
-# Nodemailer-Testing
+# Nodemailer-Gmail
 
-This code works with nodemailer and Gmail to send email from JavaScript in Node.js via a Gmail account.  You will need to supply your own gmail account and password ;)
+This code works with [Nodemailer](https://nodemailer.com/) and Gmail to send email from JavaScript in Node.js via a Gmail account.  You will need to supply your own gmail account and password ;)
 
 # Additional Considerations
 - You need to enable "Allow Less Secure Apps" in your Google security settings to allow for a Gmail address to be used as the sender.  Otherwise google will reject the login at authentication.  See https://myaccount.google.com/lesssecureapps
